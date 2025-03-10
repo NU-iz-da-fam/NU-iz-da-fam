@@ -1,5 +1,5 @@
 ## Hi there 👋
-- :man: I'm **Thai Nguyen Chau**, Master of Engineering.  
+- :man: I'm **Thai Nguyen Chau**, M.E (HCMUT).  
 - 🔭 Robotics Software Engineer.  
 - 😄 Full-time Husband and Father.  
 - ⚡ SW Slogan: **Don't make it work, make it perform** 😄
