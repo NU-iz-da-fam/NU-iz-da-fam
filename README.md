@@ -2,7 +2,8 @@
 - :man: I'm **Thai Nguyen Chau**, M.E (HCMUT).  
 - 🔭 Robotics Software Engineer.  
 - 😄 Full-time Husband and Father.  
-- ⚡ SW Slogan: **Don't make it work, make it perform** 😄
+- ⚡ SW Slogan: **Don't make it work, make it perform.** 😄
+-  :computer: [Hackerrank](https://www.hackerrank.com/profile/nguyenbku97)
 ### Interests:
 - Robotics, Autonomous, Computer Vision and AI.   
 
